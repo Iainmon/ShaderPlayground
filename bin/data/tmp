@@ -1,0 +1,9 @@
+
+
+void pixel(inout vec3 color) {
+
+    color.rgb = vec3(uv, 0.75); // Manipulating the blue value
+
+    color *= abs(sin(time)); //(sin(time) + 1.0) * 0.5;
+
+}

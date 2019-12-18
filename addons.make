@@ -1,0 +1,4 @@
+ofxAutoReloadedShader
+ofxGLSLSandbox
+ofxGui
+ofxOpenCv
